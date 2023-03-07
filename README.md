@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=javsubs91&style=for-the-badge)
-
-
-
+___
+<p align="center">
 <a href="https://www.flagcounter.me/details/dsh"><img src="https://www.flagcounter.me/dsh/" alt="Flag Counter"></a>
+</p>
