@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://info.flagcounter.com/V0XD"><img src="https://s01.flagcounter.com/count2/V0XD/bg_303030/txt_FAFDFF/border_030303/columns_8/maxflags_18/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://www.flagcounter.me/details/dsd"><img src="https://www.flagcounter.me/dsd/" alt="Flag Counter"></a>
