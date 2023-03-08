@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=javs91)
-
-<br />
+![](https://komarev.com/ghpvc/?username=javs91&style=for-the-badge)
