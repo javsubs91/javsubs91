@@ -101,7 +101,7 @@ UPLOAD_FILE() {
             echo -e "$(DATE_TIME) ${ERROR} Upload failed! Retry ${RETRY}/${RETRY_NUM} ..."
             echo
         )
-        rclone move -v "${LOCAL_PATH}" "/content/1"
+        rclone copy -v "${LOCAL_PATH}" "${REMOTE_PATH}"
         RCLONE_EXIT_CODE=$?
         if [ ${RCLONE_EXIT_CODE} -eq 0 ]; then
             UPLOAD_LOG="$(DATE_TIME) ${INFO} Upload done: ${LOCAL_PATH} -> ${REMOTE_PATH}"
