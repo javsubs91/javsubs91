@@ -94,7 +94,7 @@ UPLOAD_FILE() {
     echo -e "$(DATE_TIME) ${INFO} Start upload files..."
     TASK_INFO
     RETRY=0
-    RETRY_NUM=3
+    RETRY_NUM=1
     while [ ${RETRY} -le ${RETRY_NUM} ]; do
         [ ${RETRY} != 0 ] && (
             echo
