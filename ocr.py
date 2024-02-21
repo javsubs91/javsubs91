@@ -312,7 +312,7 @@ def installNgrok():
         from zipfile import ZipFile
         from urllib.request import urlretrieve
 
-        ngURL = "https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip"
+        ngURL = "https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.zip"
         urlretrieve(ngURL, 'ngrok-amd64.zip')
         with ZipFile('ngrok-amd64.zip', 'r') as zip_ref:
             zip_ref.extractall('/usr/local/bin/')
