@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
-  Gist: <a href="https://gist.github.com/ddr91s">https://gist.github.com/ddr91s</a>
+  Gist: <a href="https://gist.github.com/javsubs91">https://gist.github.com/ddr91s</a>
 </p>
